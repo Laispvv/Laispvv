@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello, My name is Laís 👋
 
-<!--
-**Laispvv/Laispvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently learning: Data Analytics
+- I’m working as: Software Developer
+- Pronouns: She/Her
+- Undergoing a Computer Science Bachelor Degree
 
-Here are some ideas to get you started:
+### Olá, eu sou a Laís 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou atualmente aprendendo: Análise de dados
+- Estou trabalhando com: Desenvolvimento de Software
+- Pronomes: Ela/Dela
+- Estudante de bacharelado de ciência da computação

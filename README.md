@@ -11,3 +11,6 @@
 - Estou trabalhando com: Desenvolvimento de Software
 - Pronomes: Ela/Dela
 - Estudante de bacharelado de ciência da computação
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laispvv&show_icons=true&theme=tokyonight)
+

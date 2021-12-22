@@ -1,6 +1,6 @@
 ### Hello, My name is Laís 👋
 
-- I’m currently learning: Data Analytics
+- I’m currently learning: Data Science
 - I’m working as: Software Developer
 - Pronouns: She/Her
 - Undergoing a Computer Science Bachelor Degree
@@ -8,7 +8,7 @@
 
 ### Olá, eu sou a Laís 👋
 
-- Estou atualmente aprendendo: Análise de dados
+- Estou atualmente aprendendo: Ciência de Dados
 - Estou trabalhando com: Desenvolvimento de Software
 - Pronomes: Ela/Dela
 - Estudante de bacharelado de ciência da computação
